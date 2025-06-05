@@ -1,0 +1,9 @@
+[project]
+name = "test_project"
+version = "0.1.0"
+dependencies = [
+    "requests==2.32.3"
+]
+
+[tool.uv]
+required-version = "==0.7.0"
