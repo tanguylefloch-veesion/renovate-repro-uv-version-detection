@@ -2,7 +2,7 @@
 name = "test_project"
 version = "0.1.0"
 dependencies = [
-    "requests==2.0.0"
+    "requests==2.32.4"
 ]
 
 [tool.uv]
